@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Exploring the Universe",
+      "cover_img": "../src/assets/images/1.jpg",
+      "author": "John Doe",
+      "author_img": "../src/assets/images/boy1.png",
+      "reading_time": 10,
+      "publish_date": "2024-03-01"
+    },
+    {
+      "id": 2,
+      "title": "The Art of Cooking",
+      "cover_img": "../src/assets/images/2.png",
+      "author": "Jane Smith",
+      "author_img": "../src/assets/images/boy2.png",
+      "reading_time":15,
+      "publish_date": "2024-03-05"
+    },
+    {
+      "id": 3,
+      "title": "Programming Fundamentals",
+      "cover_img": "../src/assets/images/3.png",
+      "author": "Alex Johnson",
+      "author_img": "../src/assets/images/girl1.jpg",
+      "reading_time": 8,
+      "publish_date": "2024-03-10"
+    },
+    {
+      "id": 4,
+      "title": "The Power of Meditation",
+      "cover_img": "../src/assets/images/4.jpg",
+      "author": "Emily Brown",
+      "author_img": "../src/assets/images/girl2.jpg",
+      "reading_time": 12,
+      "publish_date": "2024-03-15"
+    }
+  ]
+  
